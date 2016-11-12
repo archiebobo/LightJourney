@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1 {
+	font-family: "等线", "微软雅黑";
+}
+div {
+	font-family: "等线"，"微软雅黑";
+}
+#login_div {
+	text-align: center;
+	align-self: center;
+	margin-top: 30px;
+}
+p {
+	font-family: "等线"，"微软雅黑";
+}
+.typical_button {
+	font-family: "等线"，"微软雅黑";
+}
